@@ -9,8 +9,8 @@ const translatableItems = document.querySelectorAll("[data-en][data-zh]");
 function applyLanguage(language) {
   document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
   document.title = language === "zh"
-    ? "杨富祥 | 学术主页"
-    : "Fuxiang Yang | Academic Homepage";
+    ? "杨富祥 | 个人主页"
+    : "Fuxiang Yang | Personal Homepage";
 
   translatableItems.forEach((item) => {
     item.textContent = item.dataset[language];
