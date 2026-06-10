@@ -36,7 +36,7 @@ body {
   background: #ffffff;
   font-family: "Times New Roman", "Songti SC", "SimSun", serif;
   font-size: 10pt;
-  line-height: 1.32;
+  line-height: 1.46;
   letter-spacing: 0;
 }
 .resume { width: 100%; }
@@ -61,13 +61,13 @@ h1 {
   font-weight: 700;
 }
 h1 + p {
-  margin: 4px 0 7px;
+  margin: 4px 0 9px;
   color: #27364b;
   font-size: 10pt;
-  line-height: 1.35;
+  line-height: 1.45;
 }
 h2 {
-  margin: 7px 0 3px;
+  margin: 8px 0 4px;
   padding-bottom: 2px;
   color: #174f82;
   border-bottom: 0.8px solid #b8c7d8;
@@ -84,11 +84,11 @@ h3 {
 }
 p { margin: 0 0 3px; }
 ul {
-  margin: 1px 0 4px 0;
+  margin: 3px 0 6px 0;
   padding-left: 14px;
 }
 li {
-  margin: 0.9px 0;
+  margin: 2.7px 0;
   padding-left: 1px;
 }
 a {
