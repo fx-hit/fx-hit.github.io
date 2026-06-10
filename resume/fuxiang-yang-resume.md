@@ -2,16 +2,13 @@
 
 <img class="avatar" src="../assets/images/avatar.png" alt="头像">
 
-哈尔滨工业大学博士研究生 | [个人主页](https://fx-hit.github.io) | [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=R5LyuH8AAAAJ)
-
-## 个人信息
-
-- **姓名**：杨富祥 | **性别**：男 | **出生年月**：1998年11月 | **电话**：待补充 | **邮箱**：hityangfx@foxmail.com
-
 ## 个人概况
+<br> [个人主页](https://fx-hit.github.io) | [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=R5LyuH8AAAAJ)
 
-计算机视觉方向博士研究生，研究聚焦多模态生成、可控图像编辑、VLA 与面向具身智能的世界模型。
-目前在理想汽车基座模型行动智能组从事具身智能与 VLA 算法研究；
+1998年11月生 | hityangfx@foxmail.com
+
+研究聚焦多模态生成、可控图像编辑、VLA 与面向具身智能的世界模型。
+目前在理想汽车基座模型行动智能组开展具身智能算法研究；
 此前在美团创意生成组、中译语通参与工业场景生成式视觉算法研发。
 以第一作者发表/录用 CVPR 2026、Pattern Recognition 2026、ICME 2025、ACM MM 2023 等成果。
 
