@@ -1,6 +1,6 @@
 # 杨富祥 Fuxiang Yang
 
-<img class="avatar" src="../assets/images/avatar.png" alt="头像">
+<img class="avatar" src="../assets/images/avatar.png" alt="头像" width="96">
 
 ## 个人概况
 <br> [个人主页](https://fx-hit.github.io) | [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=R5LyuH8AAAAJ)
